@@ -1,7 +1,4 @@
 <p align="left">
-  <a href="https://github.com/Utricularor">
-    <img src="https://komarev.com/ghpvc/?username="Utricularor" alt="Utricularor" />
-  </a>
   <a href="http://twitter.com/Utricularor">
     <img height="20" src="https://img.shields.io/twitter/follow/Utricularor?label=Twitter&logo=twitter&style=flat" />
   </a>
