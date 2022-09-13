@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://github.com/Utricularor/Utrricularor/">
+  <a href="https://github.com/Utricularor/Utricularor/">
     <img src="https://komarev.com/ghpvc/?username="Utricularor" alt="Utricularor" />
   </a>
   <a href="http://twitter.com/Utricularor">
