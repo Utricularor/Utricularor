@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username="Utricularor" alt="Utricularor" />
   </a>
   <a href="http://twitter.com/CryOverSpilledT">
-    <img height="20" src="https://img.shields.io/twitter/follow/CryOverSpilledT?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/Utricularor?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Utricularor">
     <img height="20" src="https://img.shields.io/github/followers/Utricularor?label=follow&logo=github&style=flat" />
