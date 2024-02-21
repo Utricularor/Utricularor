@@ -33,6 +33,8 @@
 - 空間・時間計算量を考慮したアルゴリズムとデータ構造
 - 大規模言語モデルを用いたアプリ開発
 
+## Fun Fact!
+- 実はタイピングが得意で、[e-typing](https://www.e-typing.ne.jp/)では 430pt が自己ベストです。([国内利用者平均は 217pt](https://www.e-typing.ne.jp/enquete/past.asp?id=1447#:~:text=%E9%89%84%E6%A3%92%E3%81%AE%E9%80%86%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%84,%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AF217pt%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99%E3%80%82)）
 <!--
 **Utricularor/Utricularor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
