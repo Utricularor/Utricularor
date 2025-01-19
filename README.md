@@ -26,12 +26,12 @@
 - Git (熟練)
 - Docker (卒論やKaggleのローカル環境立ち上げでの使用経験あり)
 - Flusk (Web API開発での使用経験あり)
-- PostgreSQL (Webアプリ開発での使用経験あり)
+- SQL (Webアプリ開発での使用経験あり)
 
-## 現在勉強している、または取り組んでいること
-- XAI および AdvXAI とその防御法
-- 空間・時間計算量を考慮したアルゴリズムとデータ構造
-- 大規模言語モデルを用いたアプリ開発
+## 現在勉強していること
+- Graph Embedding
+- LangChain/LangGraph
+- 社会学
 
 ## Fun Fact!
 - 実はタイピングが得意で、[e-typing](https://www.e-typing.ne.jp/)では 430pt が自己ベストです。([国内利用者平均は 217pt](https://www.e-typing.ne.jp/enquete/past.asp?id=1447#:~:text=%E9%89%84%E6%A3%92%E3%81%AE%E9%80%86%E4%B8%8A%E3%81%8C%E3%82%8A%E3%82%84,%E3%82%B9%E3%82%B3%E3%82%A2%E3%81%AF217pt%E3%81%8F%E3%82%89%E3%81%84%E3%81%A7%E3%81%99%E3%80%82)）
